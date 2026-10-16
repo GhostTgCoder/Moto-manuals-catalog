@@ -40,6 +40,8 @@
 Основной каталог и сообщество проекта: **[@motodocs](https://t.me/motodocs)**.
 
 Подпишитесь на канал, чтобы следить за материалами архива и новыми публикациями.
+<img width="1226" height="1666" alt="Снимок экрана — 2026-10-15 в 18 56 59" src="https://github.com/user-attachments/assets/f74f8d98-9356-4ce1-917b-48c896d3aa9e" />
+<img width="1380" height="994" alt="Снимок экрана — 2026-10-15 в 18 58 51" src="https://github.com/user-attachments/assets/e19916ef-6938-4621-b714-567b29a52619" />
 
 ## Категории техники
 
